@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="dd_aroundKerla">
+	    <item>Thiruvananthapuram</item>
+		<item>Thiruvanvandoor</item>
+		<item>Thiruvaaranvilai</item>
+		<item>Thirupuliyoor</item>
+		<item>Thirucchenkundroor</item>
+		<item>Thirukkadithaanam</item>
+		<item> Thiruvalvaazh </item>
+		<item> Thirumoozhikkalam </item>
+		<item> Thirukkaatkarai </item>
+		<item> Thiru Naavaay </item>
+		<item> Thiruvazhmarban </item>
+		<item> Thiruvattarur </item>
+		<item> Thiruvithuvakkodu </item>
+	</string-array>
+	<string-array name="dd_aroundTirunelveli">
+	    <item>Thirunagari</item>
+		<item>ThenThirupperai</item>
+		<item>Thirukolur</item>
+		<item>Perungulam</item>
+		<item>Tholaivillimangalam</item>
+		<item>Thiruppulingudi</item>
+		<item> Thiruvaragunamangai </item>
+		<item> SriVaikundam </item>
+		<item> Thiruccheerivaramangai </item>
+		<item> Thirukkurungudi </item>
+	</string-array>
+	<string-array name="dd_aroundKanchi">
+	    <item>Nilathingal</item>
+		<item>Vaikunda</item>
+		<item>Ulagalantha</item>
+		<item>Yathothakaari </item>
+	    <item>Karunakara</item>
+		<item>Thirukkaar</item>
+		<item>Pavalavannar</item>
+		<item>Azhagiya-singar </item>
+		<item>Deepa-prakasar </item>
+		<item>Varadharajar </item>
+	</string-array>
+	<string-array name="dd_aroundNorthIndia">
+	    <item>Ayodhya</item>
+		<item>Thiru Naimisaranyam</item>
+		<item>Thiru Salagramam</item>
+		<item>Kadi Nagar-Devaprayag </item>
+	    <item>Thiruppirudhi</item>
+		<item>Brindhavanam</item>
+		<item>Dwaraka</item>
+		<item>Badrinath </item>
+		<item>Thiruvaaipadi </item>
+	</string-array>
+	<string-array name="dd_aroundCuddalore">
+	    <item>Thirukovilur</item>
+		<item>Thiruvaheendrapuram</item>
+	</string-array>
+	<string-array name="dd_aroundAP">
+	    <item>Tirupati</item>
+		<item>Ahobilam</item>
+	</string-array>
+</resources>

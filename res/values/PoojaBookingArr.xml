@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="poojabook_specialpooja">
+	    <item>Guru Peryarchi 2010</item>
+		<item>Pooja Bookings Charges</item>
+		<item>Payment Mode-Booking</item>
+		<item>Ways of Worship</item>
+		<item>Thirukadayur</item>
+		<item>Thirumananjeri </item>
+		<item> Thirukarugavoor </item>
+		<item> Darasuram </item>
+		<item> Patteewswaram  </item>
+		<item> Thirubhuvanam </item>
+		<item> Ayyavadi </item>
+		<item> Thiruvalanchuzhi </item> 
+		<item> Innambur </item>
+		<item> Nallur </item>
+		<item> Thiru Kollikaadu </item>
+	</string-array>
+</resources>

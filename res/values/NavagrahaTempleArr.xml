@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="navgraha_temple">
+	    <item>Sani-Thirunallar</item>
+		<item>Raghu–Thirunageswaram</item>
+		<item>Budhan–Thiruvenkadu</item>
+	    <item>Kethu–Keezhperumpallam</item>
+		<item>Guru–Alangudi</item>
+		<item>Sukaran–Kanjanoor</item>
+	    <item>Seevai–Vaidheeswaran</item>
+		<item>Chandran–Thingaloor</item>
+		<item>Suryan–Suriyanar Koil</item>
+	</string-array>
+</resources>

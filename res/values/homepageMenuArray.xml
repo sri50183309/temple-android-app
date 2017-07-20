@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="homepage_list_array">
+		<item>Kumbakonam</item>
+		<item>Divya Desam1</item>
+		<item>Divya Desam2</item>
+		<item>Navagragha Temples</item>
+		<item>Famous Temples</item>
+		<item>Pooja Bookings and Homams</item>
+		<item> Miscellaneous</item>
+	</string-array>
+	<string-array name="kumbakonamArr">
+		<item>In Kumbakonam</item>
+		<item>Around 10KM</item>
+		<item>Around 25KM</item>
+		<item>Around 40KM</item>
+		<item>Around 60KM</item>
+		<item>Around 100KM</item>
+	</string-array>
+	<string-array name="DivyaDesamArr1">
+	    <item>Guidance</item>
+		<item>Around Kumbakonam</item>
+		<item>Around Seerghazi</item>
+		<item>Around Mayavaram</item>
+		<item>Around Trichy</item>
+		<item>Around Chennai</item>
+		<item>Around Madurai</item>
+	</string-array>
+	<string-array name="DivyaDesamArr2">
+		<item>Around Kerla</item>
+		<item>Around Thirunelveli</item>
+		<item>Around Kanchipuram</item>
+		<item>North India</item>
+		<item>In Kancheepuram</item>
+		<item>Near Cuddalore</item>
+		<item>Andhra Pradesh</item>
+	</string-array>
+	<string-array name="NavagrahaArr">
+		<!-- <item>Home Page</item>  -->
+		<item>Temple Infos</item>
+		<item>Tour Packages</item>
+		<item>Navagraha Maps</item>
+	</string-array>
+	<string-array name="FamousTempleArr">
+		<item>Around Chennai</item>
+	    <item>Around Tanjore</item>
+		<item>Around Trichy</item>
+		<item>Around Tirunelveli</item>
+		<item>Around Madurai</item>
+		<item>Around Rameswaram</item>
+		<item>Around Tiruvannamalai</item>
+		<item>Around Kanchipuram</item>
+	</string-array>
+	<string-array name="PoojaBookingArr">
+		<item>Special Pooja</item>
+		<item>Navagraha Temples</item>
+		<item>Pooja Booking</item>
+	</string-array>
+	<string-array name="miscelleanousArr">
+		<item>Murugan Temples</item>
+		<item>About Us</item>
+		<item>FAQs</item>
+		<item>Contact Information</item>
+	</string-array>
+</resources>

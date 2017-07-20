@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="dd_aroundKumbakonam">
+	    <item>Nathan kovil</item>
+		<item>Sarangapani</item>
+		<item>Thirukoodalur</item>
+		<item>Thirucherai</item>
+		<item>Oppiliappan</item>
+		<item>Thiru Aadhanoor</item>
+		<item> Kapisthalam </item>
+		<item> Thiruchsirupuliyoor </item>
+		<item> PullaBhoothankudi </item>
+		<item> Thirukkannamangai </item>
+	</string-array>
+	<string-array name="dd_aroundSeergazhi">
+	    <item>Thiruchitrakoodam</item>
+		<item>Thiru Kavalampaadi</item>
+		<item>Thirunaangur</item>
+		<item>Thiru Sempon Sei Kovil</item>
+		<item>Thiru Manimaada Kovil</item>
+		<item>Vaigundha Nathan</item>
+		<item> Thiru Devanaar Thogai </item>
+		<item> Thiru Thetri Aambalam </item>
+		<item> Thiru Manikkoodam </item>
+		<item> Thiru Vellakkulam </item>
+		<item> Thiru Paarthanpalli </item>
+		<item> Thiruvaali </item>
+	</string-array>
+	<string-array name="dd_aroundMayavaram">
+	    <item>Thalaichanga</item>
+		<item>Thiruvali</item>
+		<item>Kaazhicheeraama</item>
+		<item>Thiru-nagai</item>
+		<item>Sirupuliyur</item>
+		<item>Therezhendur</item>
+		<item> Thiruvelliyankudi </item>
+		<item> Thiruneelakudi </item>
+		<item> Thirukannangudi </item>
+		<item> ThiruKannapuram </item>
+		<item> Thiruindhalur </item>
+	</string-array>
+	<string-array name="dd_aroundTiruchi">
+	    <item>Srirangam</item>
+		<item>Thirupper Nagar</item>
+		<item>Thiru Anbil</item>
+		<item>Thiru Vellarai</item>
+		<item>Thirukkarambanoor</item>
+		<item>Thirukkozhi</item>
+		<item> Tanjore </item>
+		<item> Kandiyur </item>
+	</string-array>
+	<string-array name="dd_aroundChennai">
+	    <item>Thiruvallikeni</item>
+		<item>Thiru Thangal</item>
+		<item>YogaNarasimhaswamy</item>
+		<item>Kolavilliramar</item>
+		<item>Varahaperumal</item>
+		<item>SthalaSayanaPerumal</item>
+		<item> Thiruneermalai </item>
+		<item> Thiruvidanthai </item>
+	</string-array>
+	<string-array name="dd_aroundMadurai">
+	    <item>Kallazhagar</item>
+		<item>Vadabhatrasaai</item>
+		<item>Thiruthankaal</item>
+		<item>Thirukkoodal</item>
+		<item>Thiru Moghur</item>
+		<item>Thiruppullanni</item>
+		<item> Thirukkotiyoor </item>
+	</string-array>
+</resources>

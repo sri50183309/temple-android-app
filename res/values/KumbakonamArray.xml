@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="kmu_InKumbakonam">
+		<item>Kumbeshwar</item>
+		<item>Ramasamy</item>
+		<item>Nageswaran</item>
+		<item>KasiViswanathar</item>
+		<item>Chakrapani</item>
+		<item>Someswarar</item>
+		<item> Abimukeswarar</item>
+		<item> Gautemeswarar</item>
+		<item> VaradarjaPerumal</item>
+		<item> Banapureswarar</item>
+		<item> MahamamTank</item>
+	</string-array>
+	<string-array name="kmu_Around10KM">
+		<item> Ayyavadi</item>
+		<item> Aduthurai </item>
+		<item> Avoor </item>
+		<item> Darasuram </item>
+		<item> Innambur </item>
+		<item> Karuvalarcheri</item>
+		<item> Korukkai</item>
+		<item> Karuppoor </item>
+		<item> MangalaSani</item>
+		<item> Patteeswaram</item>
+		<item> Thirubuvanam</item>
+		<item> Thirukalasanallur</item>
+		<item> Thirruparambiyam</item>
+		<item> Tiruvidaimarudur </item>
+		<item> Thiruvalanchuzhi </item>
+		<item> Thirusakthhimutram </item>
+		<item> Tirundudevankudi </item>
+		<item> Valangaiman </item>
+	</string-array>
+	<string-array name="kmu_Around25KM">
+		<item> Ammankudi</item>
+		<item> Karuvili</item>
+		<item> Konerirajapuram </item>
+		<item> Nallur</item>
+		<item> Paruthiyur</item>
+		<item> Paalivanna Nathar</item>
+		<item> Pullamangai Temple</item>
+		<item> Papanasam</item>
+		<item> Thirumangalakudi</item>
+		<item> Thiruneelakudi </item>
+		<item> Tiruvavaduturai </item>
+		<item> Thiruvaiyaru </item> 
+		<item> Thiruvaikavur </item>
+		<item> Thirumananjeri</item>
+		<item> Thirukkarugaavoor</item>
+		<item> Thiruppanantaal</item>
+	</string-array>
+	<string-array name="kmu_Around40KM">
+		<item> Kuthanoor</item>
+		<item> Kottaiyur</item>
+		<item> Mannargudi</item>
+		<item> Mayiladuthurai</item>
+		<item> Thiruchsirupuliyoor</item>
+		<item> Thirucheignalur</item>
+		<item> Thiruveezhimizhalai</item>
+		<item> Thirukodikaval</item>
+		<item> Thittai</item>
+		<item> Thiruvarur</item>
+		<item> Thirukadayur</item>
+	</string-array>
+	<string-array name="kmu_Around60KM">
+		<item>Thirukollikaadu</item>
+		<item>Gangaikondacholesvaram</item>
+		<item>Ananthamangalam</item>
+		<item>Thirumeeyachur</item>
+		<item>Thirupugalur</item>
+		<item>Semponarkovil</item>
+		<item> Sayavanam</item>
+		<item> Thirupamburam</item>
+	</string-array>
+	<string-array name="kmu_Around100KM">
+		<item>Chidambaram</item>
+		<item>Avudayar Kovil</item>
+		<item>Sirkali</item>
+		<item>Vedaranyam</item>
+		<item>Neelayadakshi temple</item>
+	</string-array>
+</resources>

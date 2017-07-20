@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="misc_muruganTemple">
+	   <item>Swamimalai</item>
+		<item>Palani</item>
+	    <item>Thiruthani</item>
+		<item>Thirupparamkunram</item>
+		<item>Thiruchendur</item>
+		<item>Pazhamdircholai</item>
+		<item>Marudhamalai</item>
+		<item>Sikkal</item>
+		<item>Viralimalai</item>
+		<item>Ayikudi</item>
+		<item>Enkan</item>
+	</string-array>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="famous_inchennai">
+	    <item>Kapaleeshwarar</item>
+		<item>Thiruvanmiyur</item>
+		<item>Mahabalipuram</item>
+		<item>Thiruverkaadu</item>
+		<item>Maangaadu</item>
+		<item>Thirumullaivayil</item>
+		<item>Vellore</item>
+		<item>Madhuraanthakam</item>
+		<item>Perur temple</item>
+		<item>Thiruvalangadu</item>
+		<item>Thiruvakkarai</item>
+		<item>Mailam Murugan Temple</item>
+		<item>Poovarasankuppam Temple</item>
+	</string-array>
+	<string-array name="famous_intanjore">
+	    <item>Bragatheeswarar</item>
+		<item>Punnainallur</item>
+		<item>Thiruneelakudi</item>
+		<item>Pudukkottai</item>
+		<item>Tirumazhapadi</item>
+	</string-array>
+	<string-array name="famous_intrichy">
+	    <item>MalaiKottai Uchi Pillayar</item>
+		<item>Gunaseelam</item>
+		<item>Samayapuram</item>
+		<item>Thriuvanaikaval</item>
+		<item>Pasupatheeswarar</item>
+		<item>Namakkal Anjaneyar</item>
+		<item>Namakkal Narasimhar</item>
+		<item>Thiruppattur</item>
+		<item>Kodumudi</item>
+	</string-array>
+	<string-array name="famous_intirunelveli">
+	    <item>Nellaiappar</item>
+		<item>Papanasam</item>
+		<item>Kutralam</item>
+		<item>Tenkasi</item>
+		<item>Dharamapathy</item>
+	</string-array>
+	<string-array name="famous_inrameswaram">
+	    <item>Ramanathaswamy</item>
+		<item>Navabashanam</item>
+		<item>Susindram</item>
+		<item>Bhagavathi Amman</item>
+	</string-array>
+	<string-array name="famous_inmadurai">
+	    <item>Meenakshi Amman</item>
+		<item>Kallazhagar</item>
+		<item>kuchanur</item>
+		<item>Pillayarpatti</item>
+	</string-array>
+	<string-array name="famous_intiruvanamalai">
+	    <item>Arunachaleswarar</item>
+		<item>Tirukovilur</item>
+		<item>Panruti</item>
+	</string-array>				
+	<string-array name="famous_inkanchi">
+	    <item>Ekambareswarar</item>
+		<item>Kumarakottam</item>
+		<item>Kamakshi Amman</item>
+	</string-array>				
+</resources>
